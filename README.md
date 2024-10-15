@@ -1,5 +1,8 @@
 # [RinHaсk Hackathon](https://rsue.ru/universitet/novosti/novosti.php?ELEMENT_ID=108350)
 
+> [!NOTE]  
+> Case description here: `/details/case.xlsx`
+
 ## 🥉 The KISS team took third (3) place
 
 ## 📜 Description
